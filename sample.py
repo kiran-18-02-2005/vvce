@@ -1,2 +1,4 @@
 print("hello world")
 print("cse")
+print("namaste")
+print("reragaj")
